@@ -452,7 +452,7 @@ const experience = {
           company: "Omar Technologies",
           company_url: "https://omartechnologies.com/",
           logo_path: "ot-logo.png",
-          duration: "Sep 2022 - current",
+          duration: "Sep 2021 - current",
           location: "Karachi, Sindh",
           description:
             "I am working on Front-end developers as responsible for a website's user-facing code and the architecture of its immersive user experience design. In order to execute those objectives, front-end devs must be adept at three main languages: HTML, CSS, and Javascript programming. I've extensive command on Reactjs/Nextjs and Nodejs.",
